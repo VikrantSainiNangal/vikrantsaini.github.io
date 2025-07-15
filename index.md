@@ -4,7 +4,7 @@ Strategic Technology Leader | Infra & Customer Engineering | 19+ Years in SaaS, 
 
 📍 Bengaluru, India  
 📧 vikrantsaini@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/vikrant-saini-2a396660/))
+🔗 [LinkedIn](https://www.linkedin.com/in/vikrant-saini-2a396660/)
 
 ---
 
