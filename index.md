@@ -8,12 +8,16 @@ Strategic Technology Leader | Infra & Customer Engineering | 19+ Years in SaaS, 
 
 ---
 
+### 🎓 Academic Credentials
+- 🎓 **IIM Kozhikode Alumni** — PG in Strategic Management, topped in Capstone/Assessment
+- 🎓 **IIM Ranchi Scholar** — Ph.D. candidate in Organizational Behaviour & HRM
+
 ## 🏆 High-Impact Accomplishments
 
-### 🚀 Razorpay Command Center
-- Built Razorpay’s Technology Command Center from scratch
-- Achieved **MTTA < 1 min**, **MTTR: 30 mins**, elevating incident response
-- Increased product uptime from **97% to 99.97%**, improving customer trust
+### 🚀 Razorpay & GoDigit Command Center
+- Built Razorpay’s and GoDigit Technology Command Center from scratch
+- Achieved **MTTA < 1 min**, **MTTR: 15 mins**, elevating incident response
+- Increased product uptime from **97% to 99.9%**, improving customer trust 
 - Developed Razorpay’s **public Status Page** and **Incident BOT** with Slack + JIRA + Zoom + Grafana
 - Turned engineering into a selling point — featured in sales pitches
 
@@ -43,6 +47,7 @@ Strategic Technology Leader | Infra & Customer Engineering | 19+ Years in SaaS, 
 - [Auto Incident Management for improved Systems Availability and Developer Productivity](https://www.linkedin.com/posts/vikrant-saini-2a396660_auto-incident-management-for-improved-systems-activity-7128638153237663744-5aGg?utm_source=share&utm_medium=member_desktop)
 - [Optimizing global support teams communication](https://www.linkedin.com/posts/vikrant-saini-2a396660_optimizing-global-support-teams-communication-activity-7251143657196511232-jE7T?utm_source=share&utm_medium=member_desktop)
 - [Operations Team Build](https://www.linkedin.com/posts/vikrant-saini-2a396660_why-founders-must-confront-the-mystery-of-activity-7259723323062853632-qLJg?utm_source=share&utm_medium=member_desktop)
+- [GoDigit Technology Command Center Accomplishments](https://www.linkedin.com/posts/vikrant-saini-2a396660_status-activity-7333051841754161152-D8A1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAz0vBsB3z1aMSK9spaL9e2uA-X0t3EyNCM)
 
 ---
 
