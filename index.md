@@ -48,6 +48,6 @@ Strategic Technology Leader | Infra & Customer Engineering | 19+ Years in SaaS, 
 
 ## Contact Me
 
-Available for consulting, advisory, and leadership roles.  
+Proficient in consulting, advisory, and leadership roles.  
 📱 +91-8860751751  
 📧 vikrantsaini@gmail.com
