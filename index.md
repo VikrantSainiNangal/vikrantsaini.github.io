@@ -2,6 +2,8 @@
 
 Strategic Technology Leader | Infra & Customer Engineering | 19+ Years in SaaS, Fintech, Insurance
 
+<img src="vikrant pic.png" alt="Vikrant Saini" width="200" style="border-radius: 8px;">
+
 📍 Bengaluru, India  
 📧 vikrantsaini@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vikrant-saini-2a396660/)
